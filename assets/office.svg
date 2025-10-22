@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" rx="12" fill="#0f172a" />
+  <g transform="translate(80,80)">
+    <rect x="0" y="0" width="1040" height="515" rx="10" fill="#0b1a3a" stroke="#1e3a8a" />
+    <!-- Desk -->
+    <rect x="60" y="320" width="380" height="120" rx="8" fill="#13263f" />
+    <rect x="120" y="280" width="120" height="60" rx="6" fill="#0b1a3a" />
+    <rect x="220" y="290" width="120" height="40" rx="6" fill="#fbbf24" opacity="0.08" />
+    <!-- Window -->
+    <rect x="520" y="60" width="420" height="210" rx="6" fill="#07203c" stroke="#1e3a8a" />
+    <g fill="#9fb7d9" opacity="0.12">
+      <rect x="530" y="70" width="200" height="80" />
+      <rect x="760" y="70" width="160" height="80" />
+      <rect x="530" y="160" width="390" height="40" />
+    </g>
+    <!-- Chairs (no people) -->
+    <rect x="480" y="350" width="80" height="100" rx="8" fill="#0b1a3a" stroke="#1e3a8a" />
+    <rect x="560" y="350" width="80" height="100" rx="8" fill="#0b1a3a" stroke="#1e3a8a" />
+    <!-- Wall art -->
+    <rect x="60" y="60" width="260" height="140" rx="6" fill="#06203b" stroke="#1e3a8a" />
+    <g transform="translate(80,80)" fill="#fbbf24" opacity="0.08">
+      <rect x="10" y="10" width="60" height="20" rx="3" />
+      <rect x="10" y="40" width="120" height="12" rx="3" />
+    </g>
+    <!-- Lighting -->
+    <circle cx="960" cy="30" r="8" fill="#fbbf24" opacity="0.06" />
+  </g>
+</svg>
